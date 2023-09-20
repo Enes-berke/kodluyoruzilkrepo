@@ -1,23 +1,36 @@
-Kodluyoruz Ilk Repo
-Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+
+
+# kodluyoruzilkrepo
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+
+# Ödev 1
+
+## GitHub'ta Repo İşlemleri
+Şu ana kadar bir sürü konu gördük ve birçok proje üzerinde çalıştık. Peki bu projeleri nasıl takip edeceğiz, nasıl derli toplu şekilde tutacağız? İşte burada GIT yardımımıza koşuyor. Bu bölümde öğrendiğiniz gibi GIT'in birçok avantajı var. Ve öğrendiklerinizi pekiştirmek için çok güzel bir ödevimiz var.
+
+- GitHub'ta bir repo açıp adını **"kodluyoruzilkrepo"** koyun.
+- Reponuzu **public** olarak oluşturun ki biz de daha sonradan görebilelim.
+- Description kısmına **"Kodluyoruz Eğitimi kapsamında açtığım ilk repo"** yazın.
+- **"Add a README file"** seçeneğini seçin.
+- "Choose a license" seçeneğini seçip **"MIT License"** seçeneğini seçin. Lisanslar ile alakalı detaylı bilgi için [Choose a License](https://choosealicense.com/) sitesini ziyaret edebilirsiniz.
 
 ![github](https://github.com/Enes-berke/kodluyoruzilkrepo/assets/115350792/43c7145b-e05a-4d6c-b0a4-2ac55fb59aa5)
 
-Installation
+Evet ilk repomuzu oluşturduk. Bundan sonraki adımda oluşturduğumuz repoyu bilgisayarımıza klonlamak olacak.
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+- Repoyu açıp Code yazan yeşil butona tıklayın ve oradaki bağlantı ile bilgisayarınıza klonlayın. GIT komutları için [GitHub GIT Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)'i kullanabilirsiniz.
+- Repoyu bilgisayarımıza aldıktan sonra içine `README.md` adında bir Markdown dosya oluşturun.
+- Markdown içeriği aşağıdaki gibi olacak şekilde düzenleyin. Markdown için önceki konumuza bakabilirsiniz.
 
-git clone https://github.com/akcanfurkan/kodluyoruzilkrepo.git
 
-Usage
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+**Detaylı bakmak için [Örnek Readme Dosyası](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/ornekreadme.md)nı inceleyebilirsiniz.**
 
-Linux için:
+- Markdown dosyanızın içine projemizin bir **resmini** koyun.
+- Repomuzun içine bir adet **index.html** dosyası oluşturun.
+- En sonunda yaptığınız değişiklikleri ekleyin, commitleyin ve gönderin. Bunları yapmayı bilmiyorsanız sizler için oluşturduğumuz için GIT eğitimimizi takip edebilirsiniz.
 
-cd kodluyoruzilkrepo code .
+Tebrikler, ilk reponuzu oluşturup içinde çeşitli değişiklikler yaptınız!
 
-Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+- Bundan sonra eğitmenimiz Hakan Yalçınkaya'nın [GitHub](https://github.com/hakanyalcinkaya) hesabına gidip "kodluyoruz-frontend-101-egitimi" adlı reposunu bulun. Bu repoyu forklayarak kendi GitHub hesabınıza alın ve daha sonrasında bilgisayarınıza clonelayıp kaynak dosyaları inceleyin. Hem konu tekrarı yapmış olacaksınız hem de fork işlemi nasıl çalışıyor bunu görmüş olacaksınız!
 
-License
-MIT
+Hepinize başarılar ve kolay gelsin.
